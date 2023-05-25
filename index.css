@@ -1,0 +1,47 @@
+
+input {
+    width: 250px;
+    height: 30px;
+    background-color: rgba(145, 197, 148, 0.376);
+    color: rgb(0, 0, 0);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    margin-left: 10px;
+}
+
+div {
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    width: 400px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+#result1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    width: 200px;
+}
+
+button {
+    background-color: rgb(167, 108, 108);
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
